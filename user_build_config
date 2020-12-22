@@ -1,0 +1,9 @@
+
+#===============================================================================
+#  Placeholder options for gfortran
+#===============================================================================
+
+ COMPILERF90    =       /opt/local/bin/gfortran-mp-10
+ NETCDFMOD      =       -I/opt/local/include
+ NETCDFLIB      =       -L/opt/local/lib -lnetcdf -lnetcdff
+
