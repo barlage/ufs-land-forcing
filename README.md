@@ -1,5 +1,5 @@
 # ufs-land-forcing
-Make sure your computer has NetCDF software installed and find the directory of the NetCDF library.
+Make sure your computer has FORTRAN compiler and NetCDF software installed.
 
 First clone this repository:
 
