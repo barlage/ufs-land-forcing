@@ -1,6 +1,10 @@
 # ufs-land-forcing
 Make sure your computer has NetCDF software installed and find the directory of the NetCDF library.
 
+First clone this repository:
+
+`git clone https://github.com/barlage/ufs-land-forcing.git`
+
 Modify the **user_build_config** based on the location of the NetCDF libraries and FORTRAN compiler.
 ## Example of single_point test:
 1) Change directory to the **single_point** directory
