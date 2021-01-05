@@ -16,4 +16,4 @@ and conversion information.
 
 4) Run the point_data and create the NetCDF files using: `./create_point_data.exe`
 
-5) The output NetCDF files should be **ufs_land_forcing**, **ufs_land_driver_static** , and **ufs_land_driver_init**
+5) The output NetCDF files should be **ufs_land_forcing**, **ufs_land_driver_static**, and **ufs_land_driver_init**
